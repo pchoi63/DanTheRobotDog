@@ -1,4 +1,4 @@
-# DanTheRobotDog
+# Dan The Robot Dog
 
 Website for Danny:
 https://ychoi25.wixsite.com/dantherobotdog
