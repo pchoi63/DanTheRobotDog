@@ -1,6 +1,6 @@
 # Dan The Robot Dog
 
-Website for Danny:
+## Website for Danny:
 https://ychoi25.wixsite.com/dantherobotdog
 
 Dan the robot dog was found in 2021 in New London Hall 212. Owner Younghoon Choi was inspired from wanting to have a pet to chase a ball around with him.
